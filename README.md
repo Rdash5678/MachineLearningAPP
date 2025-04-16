@@ -12,3 +12,6 @@ I also prioritized adaptability in the design of the app. I wanted Free Scribe t
 In addition to the technical aspects, I paid close attention to user experience. I focused on minimizing lag and optimizing performance, ensuring that the voice-to-text transcription was as accurate and responsive as possible. Throughout the project, I continuously tested and refined the app to make sure it could handle different accents, environments, and speech patterns.
 
 Overall, Free Scribe was a complex and time-consuming project, but it provided me with invaluable experience in machine learning, React development, and responsive web design using TailwindCSS. I’m proud to have created an app that is both functional and adaptable, helping users effortlessly convert voice into text while showcasing my growth as a developer.
+
+
+Link To How it Works: https://youtu.be/Z8_uQPRXTKU
